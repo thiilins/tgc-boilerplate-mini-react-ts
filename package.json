@@ -1,7 +1,7 @@
 {
   "name": "boilerplate_mini_react_ts",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "prebuild": "rimraf dist",
