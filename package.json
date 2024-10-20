@@ -1,11 +1,11 @@
 {
   "name": "boilerplate-mini-react-ts",
+  "version": "1.0.0",
   "private": true,
   "description": "Boilerplate Mini React TS",
   "author": {
     "name": "Thiago Lins"
   },
-  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "prebuild": "rimraf dist",
