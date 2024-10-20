@@ -1,6 +1,10 @@
 {
-  "name": "boilerplate_mini_react_ts",
+  "name": "boilerplate-mini-react-ts",
   "private": true,
+  "description": "Boilerplate Mini React TS",
+  "author": {
+    "name": "Thiago Lins"
+  },
   "version": "0.0.1",
   "type": "module",
   "scripts": {
